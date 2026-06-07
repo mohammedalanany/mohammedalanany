@@ -109,7 +109,7 @@ I actively leverage modern AI technologies to accelerate software delivery and i
 
 ## Flutter Developer @ ENTLQ (Saudi Arabia)
 
-📅 September 2022 – Present
+📅 September 2022 – 2025
 
 ### Responsibilities
 
